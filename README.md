@@ -1,4 +1,4 @@
-# QML-Independent-Study: A draft
+# QML-Independent-Study: A Draft
  
 Week 1 introduces a computer scientist to Quantum Computing
 
