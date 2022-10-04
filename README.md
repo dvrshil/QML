@@ -2,6 +2,7 @@
  
 Week 1 introduces a computer scientist to Quantum Computing
 
+Week 2 talks about Entanglement and Communication (Teleportation) Protocol
 
 Tools: Python + Qiskit
 
