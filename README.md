@@ -4,13 +4,13 @@
 
 **Week 1:** Intro to Quantum Computation
 
-**Week 2:** Entanglement and Communication Protocol
+**Week 2:** Entanglement + Communication Protocol
 
 **Week 3:** Quantum Search (Grover's Algo)
 
 **Week 4:** Review + Quantum Mechanics Postulates
 
-**Week 5:** Quantum Fourier Transform and Quantum Phase Estimation
+**Week 5:** Quantum Fourier Transform + Quantum Phase Estimation
 
 **Week 6:** Shor's Algorithm (coming soon)
 
