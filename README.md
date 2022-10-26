@@ -4,7 +4,7 @@
  
 **Week n:** Quantum Mechanics Review
 
-**Week 1:** Intro to Quantum Computing
+**Week 1:** Intro to Quantum Computation
 
 **Week 2:** Entanglement and Communication Protocol
 
