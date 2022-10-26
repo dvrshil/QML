@@ -1,4 +1,6 @@
-# QML-Independent-Study: A Draft
+# Quantum Machine Learning: An Independent Study
+
+## Quantum Circuits
  
 Week 1: Intro to Quantum Computing
 
@@ -10,8 +12,12 @@ Week 4: Review
 
 Week 5: Quantum Fourier Transform and Quantum Phase Estimation
 
+Week 6: Shor's Algorithm (coming soon)
+
+## Quantum Machine Learning
+
 Tools: Python + Qiskit
 
-References:
+## References:
 
 [1] Andy Matuschak and Michael A. Nielsen, “Quantum Computing for the Very Curious”, https://quantum.country/qcvc, San Francisco (2019).
