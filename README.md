@@ -32,4 +32,4 @@ Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentor
 
 [1] [quantum.country](https://quantum.country/)
 
-[2] [https://qiskit.org/](https://qiskit.org/)
+[2] [qiskit.org](https://qiskit.org/)
