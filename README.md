@@ -16,7 +16,7 @@
 
 **Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for suporting my pursuit of the Quantum Study.**
 
-### References:
+## References:
 
 [1] [quantum.country](https://quantum.country/)
 
