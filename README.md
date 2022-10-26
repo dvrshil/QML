@@ -1,8 +1,6 @@
 # Quantum Machine Learning: An Independent Study
 
 ## Quantum Computing Foundation
- 
-**Week n:** Quantum Mechanics Review
 
 **Week 1:** Intro to Quantum Computation
 
@@ -10,7 +8,7 @@
 
 **Week 3:** Quantum Search (Grover's Algo)
 
-**Week 4:** Review
+**Week 4:** Review + Quantum Mechanics Postulates
 
 **Week 5:** Quantum Fourier Transform and Quantum Phase Estimation
 
