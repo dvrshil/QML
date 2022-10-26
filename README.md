@@ -1,6 +1,5 @@
 # Quantum Machine Learning: An Independent Study
 
-
 ### Quantum Computing Foundation
  
 **Week n:** Quantum Mechanics Review
