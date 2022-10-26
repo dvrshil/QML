@@ -14,7 +14,7 @@
 
 **Week 6:** Shor's Algorithm (coming soon)
 
-**Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum Study.**
+**Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for suporting my pursuit of the Quantum Study.**
 
 ### References:
 
