@@ -16,8 +16,6 @@
 
 **Week 6:** Shor's Algorithm (coming soon)
 
-<br>
-
 ### Quantum Machine Learning coming soon.
 
 <br>
