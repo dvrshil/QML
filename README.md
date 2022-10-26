@@ -1,5 +1,6 @@
 # Quantum Machine Learning: An Independent Study
 
+
 ## Quantum Circuits
  
 Week n: Quantum Mechanics Review
@@ -16,11 +17,13 @@ Week 5: Quantum Fourier Transform and Quantum Phase Estimation
 
 Week 6: Shor's Algorithm (coming soon)
 
-## Quantum Machine Learning
 
-### Tools Required: Python + Qiskit + IBM Quantum Lab
+Quantum Machine Learning coming soon.
+
 
 ### Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum study.
+
+Tools Required: Python + Qiskit + IBM Quantum Lab
 
 ## References:
 
