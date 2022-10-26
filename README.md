@@ -1,4 +1,4 @@
-# Quantum Machine Learning: An Independent Study
+# A Study in Quantum Machine Learning
 
 ## Quantum Computing Foundation
 
