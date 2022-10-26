@@ -16,10 +16,6 @@
 
 **Week 6:** Shor's Algorithm (coming soon)
 
-**Quantum Machine Learning coming soon.**
-
-<br>
-
 **Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum Study.**
 
 ### References:
