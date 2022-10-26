@@ -22,8 +22,6 @@
 
 Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of my Quantum Study.
 
-<br>
-
 ### References:
 
 [1] [quantum.country](https://quantum.country/)
