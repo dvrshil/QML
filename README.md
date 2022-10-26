@@ -3,19 +3,19 @@
 
 ## Quantum Circuits
  
-Week n: Quantum Mechanics Review
+**Week n:** Quantum Mechanics Review
 
-Week 1: Intro to Quantum Computing
+**Week 1:** Intro to Quantum Computing
 
-Week 2: Entanglement and Communication Protocol
+**Week 2:** Entanglement and Communication Protocol
 
-Week 3: Quantum Search (Grover's Algo)
+**Week 3:** Quantum Search (Grover's Algo)
 
-Week 4: Review
+**Week 4:** Review
 
-Week 5: Quantum Fourier Transform and Quantum Phase Estimation
+**Week 5:** Quantum Fourier Transform and Quantum Phase Estimation
 
-Week 6: Shor's Algorithm (coming soon)
+**Week 6:** Shor's Algorithm (coming soon)
 
 
 Quantum Machine Learning coming soon.
@@ -23,7 +23,8 @@ Quantum Machine Learning coming soon.
 
 ### Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum study.
 
-Tools Required: Python + Qiskit + IBM Quantum Lab
+
+**Tools Used:** Python + Qiskit + IBM Quantum Lab
 
 ## References:
 
