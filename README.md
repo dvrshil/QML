@@ -1,7 +1,7 @@
 # Quantum Machine Learning: An Independent Study
 
 
-## Quantum Circuits
+### Quantum Computing Foundation
  
 **Week n:** Quantum Mechanics Review
 
@@ -17,16 +17,16 @@
 
 **Week 6:** Shor's Algorithm (coming soon)
 
-
 Quantum Machine Learning coming soon.
 
 
-### Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum study.
+Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum study.
 
 
 **Tools Used:** Python + Qiskit + IBM Quantum Lab
 
-## References:
+
+### References:
 
 [1] [quantum.country](https://quantum.country/)
 
