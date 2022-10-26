@@ -1,8 +1,14 @@
 # QML-Independent-Study: A Draft
  
-Week 1 introduces a computer scientist to Quantum Computing
+Week 1: Intro to Quantum Computing
 
-Week 2 talks about Entanglement and Communication (Teleportation) Protocol
+Week 2: Entanglement and Communication Protocol
+
+Week 3: Quantum Search (Grover's Algo)
+
+Week 4: Review
+
+Week 5: Quantum Fourier Transform and Quantum Phase Estimation
 
 Tools: Python + Qiskit
 
