@@ -1,6 +1,6 @@
 # Quantum Machine Learning: An Independent Study
 
-### Quantum Computing Foundation
+## Quantum Computing Foundation
  
 **Week n:** Quantum Mechanics Review
 
@@ -16,15 +16,17 @@
 
 **Week 6:** Shor's Algorithm (coming soon)
 
+<br>
+
 Quantum Machine Learning coming soon.
 
 <br>
 
 Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentoring my pursuit of the Quantum study.
 
+<br>
 
 **Tools Used:** Python + Qiskit + IBM Quantum Lab
-
 
 ### References:
 
