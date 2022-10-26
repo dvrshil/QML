@@ -24,10 +24,10 @@ Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for mentor
 
 <br>
 
-**Tools Used:** Python + Qiskit + IBM Quantum Lab
-
 ### References:
 
 [1] [quantum.country](https://quantum.country/)
 
 [2] [qiskit.org](https://qiskit.org/)
+
+### **Tools Used:** Python + Qiskit + IBM Quantum Lab
