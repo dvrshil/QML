@@ -8,13 +8,15 @@ Note: This is an ongoing project. Updates to GitHub are exected in chunks.
 
 **Week 2:** Entanglement + Communication Protocol
 
-**Week 3:** Quantum Search (Grover's Algo)
+**Week 3:** Quantum Search (Grover's Algorithm)
 
-**Week 4:** Review + Quantum Mechanics Postulates
+**Week 4:** Quantum Fourier Transform + Quantum Phase Estimation
 
-**Week 5:** Quantum Fourier Transform + Quantum Phase Estimation
+**Week 5:** Shor's Algorithm
 
-**Week 6:** Shor's Algorithm (coming soon)
+**Week 6:** Quantum ML Background
+
+**Week 7:** Quantum SVM using Quantum Kernel
 
 **Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for suporting my pursuit of the Quantum Study.**
 
