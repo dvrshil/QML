@@ -1,7 +1,5 @@
 # A Study of Quantum Machine Learning
 
-Note: This is an ongoing project. Updates to GitHub are exected in chunks.
-
 ## Quantum Computing Foundation
 
 **Week 1:** Intro to Quantum Computation
