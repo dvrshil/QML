@@ -1,20 +1,20 @@
 # A Study of Quantum Machine Learning
 
-## Quantum Computing Foundation
+## Quantum Computing Topic Covered:
 
-**Week 1:** Intro to Quantum Computation
+* Intro to Quantum Computation
 
-**Week 2:** Entanglement + Communication Protocol
+* Entanglement + Communication Protocol
 
-**Week 3:** Quantum Search (Grover's Algorithm)
+* Quantum Search (Grover's Algorithm)
 
-**Week 4:** Quantum Fourier Transform + Quantum Phase Estimation
+* Quantum Fourier Transform + Quantum Phase Estimation
 
-**Week 5:** Shor's Algorithm
+* Shor's Algorithm
 
-**Week 6:** Quantum ML Background
+* Quantum ML Background
 
-**Week 7:** Quantum SVM using Quantum Kernel
+* Quantum SVM using Quantum Kernel
 
 **Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for suporting my pursuit of the Quantum Study.**
 
