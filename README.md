@@ -2,19 +2,19 @@
 
 ## Quantum Computing Topic Covered:
 
-* Intro to Quantum Computation
+1. Intro to Quantum Computation
 
-* Entanglement + Communication Protocol
+2. Entanglement + Communication Protocol
 
-* Quantum Search (Grover's Algorithm)
+3. Quantum Search (Grover's Algorithm)
 
-* Quantum Fourier Transform + Quantum Phase Estimation
+4. Quantum Fourier Transform + Quantum Phase Estimation
 
-* Shor's Algorithm
+5. Shor's Algorithm
 
-* Quantum ML Background
+6. Quantum ML Background
 
-* Quantum SVM using Quantum Kernel
+7. Quantum SVM using Quantum Kernel
 
 **Special thanks to [Dr. Huang](https://danehuang.github.io/index.html) for suporting my pursuit of the Quantum Study.**
 
